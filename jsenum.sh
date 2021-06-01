@@ -1,6 +1,6 @@
 # Configuration ; 
-Path_to_Linkfinder="/home/morty/Tools/LinkFinder/linkfinder.py"
-Path_to_Secretfinder="/home/morty/Tools/secretfinder/SecretFinder.py"
+Path_to_Linkfinder="[path]/LinkFinder/linkfinder.py"
+Path_to_Secretfinder="[path]/secretfinder/SecretFinder.py"
 Path_to_Findomxss="findomxss.sh"
 Path_to_JSVar="jsvar.sh"
 echo "        _______ _______   ____  ____  ___"
@@ -49,5 +49,3 @@ echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m Testing for Potential DOM based xss \e[0m
 bash $Path_to_Findomxss alive_JSfiles.txt 
 echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m Scanning for Variables/parameters for Potential XSS \e[0m\n"
 cat alive_JSfiles.txt | while read url ; do bash $Path_to_JSVar $url | tee -a js_var.txt ; done
-
-
