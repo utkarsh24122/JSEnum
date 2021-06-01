@@ -4,6 +4,13 @@ Simple Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
 Finding Endpoints & Secrets in JS Files
 
 FInding Potential DOM based XSS & Reflected XSS
+```
+        _______ _______   ____  ____  ___
+       / / ___// ____/ | / / / / /  |/  /
+  __  / /\__ \/ __/ /  |/ / / / / /|_/ / 
+ / /_/ /___/ / /___/ /|  / /_/ / /  / /  
+ \____//____/_____/_/ |_/\____/_/  /_/   
+```
 
 # Features
 - Gathering JavaScript Files from the Target & its Subdomains
