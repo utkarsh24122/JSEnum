@@ -26,7 +26,7 @@ $ cd JSEnum
 $ chmod +x jsenum.sh
 ```
 # Requirements
-- Required tools
+- [Required tools](https://github.com/utkarsh24122/JSEnum/blob/main/required_tools.md)
 - PS: Working on script to install all tools at once!!
 
 # Usage 
