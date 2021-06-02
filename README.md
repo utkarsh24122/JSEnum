@@ -31,5 +31,5 @@ $ chmod +x jsenum.sh
 
 # Usage 
 ```
-$ ./jsenum.sh target.com
+$ ./jsenum.sh list_of_domains.txt
 ```
