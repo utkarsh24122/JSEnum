@@ -1,5 +1,5 @@
 # JSEnum
-Simple Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
+Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
 
 Finding Endpoints & Secrets in JS Files
 
