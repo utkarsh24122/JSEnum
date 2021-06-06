@@ -3,7 +3,7 @@ Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
 
 Finding Endpoints & Secrets in JS Files
 
-FInding Potential DOM based XSS & Reflected XSS
+Finding Potential DOM based XSS & Reflected XSS
 ```
         _______ _______   ____  ____  ___
        / / ___// ____/ | / / / / /  |/  /
