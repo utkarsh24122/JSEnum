@@ -3,7 +3,7 @@ Find Secrets and leaks in JavaScript files
 
 Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
 
-Finding Endpoints & Secrets in JS Files. Check [Features]()
+Finding Endpoints & Secrets in JS Files. Check [Features](https://github.com/utkarsh24122/JSEnum/blob/main/README.md#features)
 
 Finding Potential DOM based XSS & Reflected XSS
 ```
