@@ -5,7 +5,7 @@ Bash Script to Enumerate JavaScript Files of a target and its Subdomains.
 
 Finding Endpoints & Secrets in JS Files. Check [Features](https://github.com/utkarsh24122/JSEnum/blob/main/README.md#features)
 
-Finding Potential DOM based XSS & Reflected XSS
+Finding Potential DOM based XSS & Reflected XSS ✨
 ```
         _______ _______   ____  ____  ___
        / / ___// ____/ | / / / / /  |/  /
