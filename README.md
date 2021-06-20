@@ -34,5 +34,8 @@ $ chmod +x jsenum.sh
 # Usage 
 ```
 $ ./jsenum.sh list_of_domains.txt
+```
+OR
+```
 $ ./jsenum.sh list_of_subdomains.txt
 ```
